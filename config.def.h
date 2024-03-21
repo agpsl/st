@@ -7,7 +7,10 @@
  */
 static char *font = "Source Code Pro:style=Regular:size=12:antialias=true:autohint=true";
 /* Spare fonts */
-static char *font2[] = { "Noto Color Emoji:style=Regular:size=12:antialias=true:autohint=true", };
+static char *font2[] = { 
+	"Noto Color Emoji:style=Regular:size=12:antialias=true:autohint=true",
+	"SauceCodePro Nerd Font Mono:style=Regular:size=12:antialias=true:autohint=true", 
+};
 
 static int borderpx = 16;
 
